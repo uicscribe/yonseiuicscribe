@@ -4,7 +4,7 @@
   "description": "Migrating from WordPress to Gatsby",
   "version": "0.1.0",
   "license": "MIT",
-  "author": "Elijah Lee <develijahlee@gmail.com>",
+  "author": "Scribe <scribe.uic@gmail.com>",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
