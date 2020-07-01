@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: `Home - Yonsei UIC Scribe | Underwood International College`,
     description: `The UIC Scribe is the official student-run newsmagazine of Underwood International College.`,
-    baseUrl: `http://yonseiuicscribe.netlify.app/`,
+    baseUrl: `http://yonseiuicscribe-master.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-sharp`,
