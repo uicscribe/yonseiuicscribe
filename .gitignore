@@ -1,3 +1,8 @@
+#SSH
+id_rsa_COMPANY
+id_rsa_work_user1
+.pub
+
 # Logs
 logs
 *.log

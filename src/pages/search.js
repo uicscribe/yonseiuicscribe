@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 import algoliasearch from 'algoliasearch/lite';
 import { InstantSearch, SearchBox, Hits } from 'react-instantsearch-dom';
 
-const searchClient = algoliasearch('8J7JSA4FQI', 'b2566d96625e47c5028c21d77fc9607a');
+const searchClient = algoliasearch('8J7JSA4FQI', 'a4e8c8613b1decfcaf3ddab36b44d864');
 const Hit = ({ hit }) =>
 <article>
 	<Link to={`/${hit.fields.slug}`}>
