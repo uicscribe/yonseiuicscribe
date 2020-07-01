@@ -30,7 +30,7 @@
     {
       query: postQuery,
       transformer: ({ data }) => flatten(data.posts.edges),
-      indexName: `Articles`,
+      indexName: `Posts`,
       settings,
     },
   ]
