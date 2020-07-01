@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: develijahlee/yonseiuicscribe
+  repo: uicscribe/yonseiuicscribe
 
 media_folder: src/content/posts/images
 public_folder: ./images
