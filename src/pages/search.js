@@ -24,7 +24,7 @@ export default class extends React.Component {
 				<PageBreadcrumb crumbs={ [ 'Home', 'Search' ] } />
 				<div className="searchbarContainer">
 				<SEO title="Search - Yonsei UIC Scribe | Underwood International College"></SEO>
-					<InstantSearch className="searchbar" searchClient={searchClient} indexName="Posts">
+					<InstantSearch className="searchbar" searchClient={searchClient} indexName="Articles">
 						<SearchBox />
 						<Hits hitComponent={Hit} />
 					</InstantSearch>
