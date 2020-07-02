@@ -13,7 +13,7 @@ export default ({ data }) => {
   const postCategory = post.frontmatter.category
   const postTitle = post.frontmatter.title
   let disqusConfig = {
-    url: `https://yonseiuicscribe.netlify.app/${post.fields.slug}`,
+    url: `https://yonseiuicscribe.com/${post.fields.slug}`,
     identifier: post.id,
     title: post.frontmatter.title,
   }

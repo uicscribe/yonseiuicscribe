@@ -40,7 +40,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `yonseiuicscribe`
+        shortname: `yonseiuicscribe-1`
       }
     },
     {
