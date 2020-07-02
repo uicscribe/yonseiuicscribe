@@ -3,7 +3,7 @@ title: Test Blog Post
 author: Elijah Lee
 date: 2020-07-02T05:23:41.479Z
 category: School
-featuredImage: ./images/
+featuredImage: ./images/hockey.jpg
 featured: "false"
 ---
 ![hockey guys](images/hockey.jpg "a good title")
