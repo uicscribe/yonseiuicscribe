@@ -1,7 +1,7 @@
 ---
 title: "Project: UIC Snapshot (ft. Wooyoung Kim)"
 date: "2020-06-01"
-author: "Se Jeen Park"
+author: "Se Jen Park"
 category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
