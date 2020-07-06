@@ -4,8 +4,10 @@ author: Jungwon Choi
 date: 2020-07-06T09:53:03.909Z
 category: Science
 featuredImage: ./images/war.jpg
-featured: "true"
+featured: "false"
 ---
+![war picture](images/war.jpg)
+
 “Arise Corona microbes,
 
 close ranks,
