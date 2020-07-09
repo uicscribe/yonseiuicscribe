@@ -1,5 +1,5 @@
 ---
-title: "The challenges for new RAs of the COVID year"
+title: "[COVID-19 Report] The challenges for new RAs of the COVID year"
 date: "2020-06-22"
 author: "Yoonsoo Lee"
 category: "Interviews"
