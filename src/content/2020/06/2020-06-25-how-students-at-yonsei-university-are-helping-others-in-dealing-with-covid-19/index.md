@@ -1,5 +1,5 @@
 ---
-title: "How students at Yonsei University are helping others in dealing with COVID-19"
+title: "[COVID-19 Report] How students at Yonsei University are helping others in dealing with COVID-19"
 date: "2020-06-25"
 author: "Sukran Choi"
 category: "School"
