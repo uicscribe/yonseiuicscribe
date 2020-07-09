@@ -1,5 +1,5 @@
 ---
-title: "Struggles of Studying Abroad in the face of Covid-19"
+title: "[COVID-19 Report] Struggles of Studying Abroad in the face of Covid-19"
 date: "2020-06-18"
 author: "Eunje Kim"
 category: "School"
