@@ -1,5 +1,5 @@
 ---
-title: "A Classroom Without Pens and Paper: An Outlook on Online Learning Technologies"
+title: "[COVID-19 Report] A Classroom Without Pens and Paper: An Outlook on Online Learning Technologies"
 date: "2020-05-11"
 author: "Yurie Lee"
 category: "School"
