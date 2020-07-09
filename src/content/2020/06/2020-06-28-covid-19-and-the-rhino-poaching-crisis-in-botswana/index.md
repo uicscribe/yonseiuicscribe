@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 and the Rhino Poaching Crisis in Botswana"
+title: "[COVID-19 Report] COVID-19 and the Rhino Poaching Crisis in Botswana"
 date: "2020-06-28"
 author: "Ariunzaya Munkhuu"
 category: "Society"
