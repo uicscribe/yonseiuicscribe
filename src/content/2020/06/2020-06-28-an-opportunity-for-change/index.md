@@ -1,5 +1,5 @@
 ---
-title: "An Opportunity for Change?"
+title: "[COVID-19 Report] An Opportunity for Change?"
 date: "2020-06-28"
 author: "Min Jun Kim"
 category: "Society"
