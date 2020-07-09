@@ -1,5 +1,5 @@
 ---
-title: "The race to developing a vaccine for COVID-19"
+title: "[COVID-19 Report] The race to developing a vaccine for COVID-19"
 date: "2020-06-28"
 author: "Yerim Kim"
 category: "Science"
