@@ -1,5 +1,5 @@
 ---
-title: "The Class of COVID-19 – From a UIC Freshman’s Perspective"
+title: "[COVID-19 Report] The Class of COVID-19 – From a UIC Freshman’s Perspective"
 date: "2020-06-18"
 author: "Chaewon Sung"
 category: "School"
