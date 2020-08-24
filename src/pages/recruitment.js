@@ -18,8 +18,8 @@ export default () => (
 			<p>To network and mingle with upperclassmen and other like-minded colleagues</p>
 			<p>For a chance to receive the prestigious Scribe scholarship</p>
 			<h2>What do we do in Scribe?</h2>
-			<p>Three meetings are held per semester, usually on Thursdays at Sinchon.</p>
-			<p>During these Workshop sessions, reporters discuss with fellow club members and editors about their articles and receive feedback on improving the quality of their drafts.</p>
+			<p>We usually hold two workshops per semester. This semester the first workshop will be held on September 11th. The date for the second workshop is TBA.</p>
+			<p>During these workshop sessions, reporters discuss with fellow club members and editors about their articles and receive feedback on improving the quality of their drafts.</p>
 			<p>Outside of meetings, reporters work on their individual articles. Assigned editors work closely to assist reporters along the way.</p>
 			<p>Designers work with the editorial board to produce the final magazine publications. Designers are exempt from meetings.</p>
 			<h2>How can I apply?</h2>
