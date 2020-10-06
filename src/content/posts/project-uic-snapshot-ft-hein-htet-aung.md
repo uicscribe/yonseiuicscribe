@@ -6,7 +6,7 @@ category: Shorts
 featuredImage: ./images/uic.jpg
 featured: "false"
 ---
-![](images/uic.png)
+![](images/uic.jpg)
 
 Interview with Hein Htet Aung, Energy and Environmental of Science and Engineering (EESC) major from the class of 2019.
 
