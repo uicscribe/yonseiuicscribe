@@ -1,5 +1,5 @@
 ---
-title: "Reporting live from the Microbe World: World War Corona"
+title: "Reporting Live from the Microbe World: World War Corona"
 author: Jungwon Choi
 date: 2020-07-06T09:53:03.909Z
 category: Science
