@@ -3,10 +3,10 @@ title: "Project: U Review (ft. The Melting Pot X Can Maker)"
 author: Min Jun Kim
 date: 2020-10-06T13:27:05.587Z
 category: Shorts
-featuredImage: ./images/ureview_minjun.jpg
+featuredImage: ./images/ureviewminjun.jpg
 featured: "false"
 ---
-![u review](images/ureview_minjun.png)
+![u review](images/ureviewminjun.png)
 
 Location: This awesome burger joint is a short 5-minute walk from the main gate of Yonsei University’s Sinchon Campus.
 
