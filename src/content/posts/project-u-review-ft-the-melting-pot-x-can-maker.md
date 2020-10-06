@@ -1,7 +1,7 @@
 ---
 title: "Project: U Review (ft. The Melting Pot X Can Maker)"
 author: Min Jun Kim
-date: 2020-10-06T13:27:05.587Z
+date: 2020-10-02T13:27:05.587Z
 category: Shorts
 featuredImage: ./images/ureviewminjun.jpg
 featured: "false"
