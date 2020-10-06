@@ -3,10 +3,10 @@ title: "Project: UIC Snapshot (ft. Hein Htet Aung)"
 author: Chan Kim
 date: 2020-10-06T09:56:33.818Z
 category: Shorts
-featuredImage: ./images/uic.jpg
+featuredImage: ./images/ureview_hein.jpg
 featured: "false"
 ---
-![](images/uic.jpg)
+![](images/ureview_hein.jpg)
 
 Interview with Hein Htet Aung, Energy and Environmental of Science and Engineering (EESC) major from the class of 2019.
 
