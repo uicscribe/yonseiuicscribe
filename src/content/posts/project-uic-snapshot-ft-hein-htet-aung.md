@@ -3,7 +3,7 @@ title: "Project: UIC Snapshot (ft. Hein Htet Aung)"
 author: Chan Kim
 date: 2020-10-06T09:56:33.818Z
 category: Shorts
-featuredImage: ./images/uic.png
+featuredImage: ./images/uic.jpg
 featured: "false"
 ---
 ![](images/uic.png)
