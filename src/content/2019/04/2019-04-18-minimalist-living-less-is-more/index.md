@@ -1,7 +1,7 @@
 ---
 title: "Minimalist Living: Less is More"
 date: "2019-04-18"
-author: "Yeon Seo Kwon"
+author: "Yeon Seo Koh"
 category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
