@@ -3,7 +3,7 @@ title: School Festivals in the age of the Coronavirus
 author: Yerim Kim
 date: 2020-11-09T09:55:47.429Z
 category: School
-featuredImage: ./images/yonko2020
+featuredImage: ./images/yonko2020.jpg
 featured: "false"
 ---
 ![yonkogames2020](images/yonko2020.jpg)
