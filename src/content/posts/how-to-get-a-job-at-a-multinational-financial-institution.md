@@ -1,0 +1,31 @@
+---
+title: How to get a job at a multinational financial institution
+author: Soonwoo Kwon
+date: 2020-12-03T09:41:34.218Z
+category: School
+featuredImage: ./images/finance.jpg
+featured: "false"
+---
+![finance](images/finance.jpg)
+
+On November 5th, a mentoring event “Multinational Financial Institutions Career Mentorship” was held in Yongjae Hall of the Business Administration Building. This event was organized by the Yonsei Career Development Team to support students who are interested in working at a financial institution. This mentorship program was divided into two information sessions, one for seniors and another for sophomores and juniors. After the information session, students had a chance to have dinner with the mentors and get personalized one-to-one advice. This program was a valuable opportunity for students to get first hand knowledge and hear from alumni who actually work in the finance field.
+
+## Who were the mentors
+
+The three mentors who came to share their experience all received their bachelor’s degrees from Yonsei University. First, Hyun-Chan Cho, class of 1987, majored in civil engineering at Yonsei and further studied at Stanford University and The University of Tokyo. Then, he worked at International Finance Corporation of the World Bank and recently, started to work as a managing partner at IMM Investment. Next, Youngwoo Chang and Chunsoo Lim both were class of 1981 and majored in Business. They started to work as accountants after taking Certified Public Accountant exams and later worked at investment banks such as UBS, Goldman Sachs, Merrill Lynch, and KPMG. Currently, Youngwoo Chang is a chief investment officer at Young&Co and Chunsoo Lim is a CEO at Midas Private Equity. The three mentors were all very passionate about offering guidance to students and wished that many Yonsei students could successfully pursue careers in this field.
+
+## How to prepare for a career in finance during your undergraduate years
+
+The mentors advised that during school years, students should take relevant courses that would be helpful for their career in finance. Therefore, it would be ideal to plan out the future course schedule as early as possible. Also, in addition to achieving a high GPA, students could further improve their financial skills by studying for Chartered Financial Analyst exams. Furthermore, the mentors strongly encouraged students to develop skills other than finance skills. For example, the mentors highly recommended to double major, minor or further study in mathematics, statistics, and computer programming. They said that these skills would be valuable assets not only when applying to jobs but also throughout our career. The last piece of advice was that we should accumulate as much diverse experience as possible during our college years. One of the mentors talked about his experience in a music band (무한궤도) when he was a college student. Experiences such as extra-curricular activities, study abroad, students clubs or work could help build our character and we could also apply these experiences to our future work as well.
+
+## Job application process for multinational financial institutions
+
+Internships were the most important thing that the mentors emphasized. Internships are important in other sectors as well, but are especially crucial in the finance sector because multinational financial institutions mostly hire people through internships. To prepare for the [internship application process](https://www.yonseiuicscribe.com/2019/11/2019-11-07-launching-a-career-student-internships-in-south-korea/), students should check the firms’ websites regularly and prepare by working on their resume, cover letters or the skills that are required for the job. The most ideal case would be to do a summer internship during your junior or senior year. The mentors also highlighted that after getting an internship, it is crucial to show excellent performance at work to get return offers. Therefore, it is necessary to clearly understand each task given to you and deliver the exact results that your colleagues expect. In order to reduce mistakes, you should constantly ask the seniors to make sure that you are understanding every task correctly.
+
+## How to nail a job interview
+
+The mentors explained what characteristics employers look for from the candidates. First, presenting yourself as a smart person is obviously very important. Although it is a cliche and could be easily proven by your GPA, showing how smart you are during the interview is extremely important. It would be optimal to answer all the technical questions well, but even if you could not answer a few technical questions perfectly you could make up for your mistakes by emphasizing that you are a fast learner and that you work extremely hard.
+
+Next, showing a positive attitude is another important factor. Even when you talk about your weaknesses or challenges, you should always give an example that ends with a positive outcome. For example, you can talk about one of your most challenging courses, but you have to end the story with getting good grades or any positive result. Some other essential qualities they look for are ambition, eagerness to work in the job, and being a good team player. The mentors said that explicitly telling them how much you want the job would appeal to them. Lastly, when talking with the interviewer, you have to be concise, talk at a right pace and use relevant and strong language.
+
+Attending this event helped many students get a full picture of how to prepare for a career in multinational financial institutions. I was surprised that so many students attended this event, actively asked questions to the mentors, and were passionate to learn from them. If you have missed this mentoring opportunity, I would strongly recommend you to check Career Yonsei page or YSCEC [UIC Career Development](https://www.yonseiuicscribe.com/2019/06/2019-06-20-career-development-center/) page regularly so that you could take advantage of these helpful events and get a chance to learn more about the career path of your interest.
