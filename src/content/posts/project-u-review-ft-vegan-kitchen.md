@@ -3,7 +3,7 @@ title: "Project: U Review (ft. Vegan Kitchen)"
 author: Sara Rousalova
 date: 2021-04-13T06:28:14.112Z
 category: Shorts
-featuredImage: ./images/
+featuredImage: ./images/ureview_sara_vegankitchen.jpeg
 featured: "false"
 ---
 ![](images/picture-1-u-review-sara-rousalova-4_4.jpeg)
