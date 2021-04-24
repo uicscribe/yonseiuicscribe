@@ -3,10 +3,10 @@ title: "The Coup d'état in Myanmar: A Threat to Free Elections"
 author: Qirrat Ahmad
 date: 2021-04-24T08:07:00.864Z
 category: Politics
-featuredImage: ./images/Qirrat Ahmad_Picture 2.jpg
+featuredImage: ./images/Qirrat_Ahmad_Picture_2.jpg
 featured: "false"
 ---
-![](images/qirrat-ahmad_picture-2.jpg)
+![](images/qirrat_ahmad_picture_2.jpg)
 
 <!--StartFragment-->
 
@@ -24,8 +24,6 @@ One reason some hold the latter view is that the NLD did not assert their power 
 
 In conclusion, the instigation of the 2020 military coup was the military’s determination in reaffirming its totalitarian power over the country. The military imprisoned Suu Kyi because she is a symbol of democracy and hope for the country, despite her failure in the Rohingya Muslims situation. Furthermore, ever since the “democratic” victory of 2015, foreign democratic countries have tried to assist Myanmar’s democratic endeavors. However, they remain largely unsuccessful as states do not have actual leverage to convince Myanmar to continue its democratic pursuits\[4]. The impetus for true democratic change needs to come from the people of Myanmar, who should not be satisfied with a “better”situation than in the 1980s but should want a real, working democracy.
 
-
-
 \[1] BBC News
 
 \[2] DW News
@@ -33,7 +31,5 @@ In conclusion, the instigation of the 2020 military coup was the military’s de
 \[3] New York Times
 
 \[4] The Guardian
-
-
 
 <!--EndFragment-->
