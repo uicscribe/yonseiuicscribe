@@ -2,7 +2,7 @@
 title: "The Passion for Student Government: An Interview with Yoon Ju Suk "
 author: Jeong-in Ha
 date: 2021-04-24T03:54:31.194Z
-category: Interview
+category: School
 featuredImage: ./images/schooltopic2021-1_jeonginha.jpg
 featured: "false"
 ---
