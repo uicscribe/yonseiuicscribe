@@ -4,7 +4,7 @@ title: Yonsei University Introducing ‘Micromajor,’ a New Option for Integrat
 author: Changhyun Kim
 date: 2021-06-09T04:23:21.987Z
 category: School
-featuredImage: ./images/2021_1_changhyun_article_2_1.png
+featuredImage: ./images/2021_1_changhyun_article_2_1.jpg
 featured: "false"
 ---
 ![](images/2021_1_changhyun_article_2_1.jpg)
