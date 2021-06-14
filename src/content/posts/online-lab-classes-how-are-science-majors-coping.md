@@ -3,7 +3,7 @@ title: "Online Lab Classes: How are Science Majors Coping?"
 author: Qirrat Ahmad
 date: 2021-06-14T04:08:19.662Z
 category: School
-featuredImage: ./images/2021_1_Qirrat_Ahmad_article_2.jpg
+featuredImage: ./images/2021_1_qirrat_ahmad_article_2.jpg
 featured: "false"
 ---
 ![](images/2021_1_qirrat_ahmad_article_2.jpg)
