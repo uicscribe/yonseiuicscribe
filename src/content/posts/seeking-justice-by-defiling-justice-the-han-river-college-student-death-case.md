@@ -4,7 +4,7 @@ author: Yoona Cho
 date: 2021-06-18T07:57:20.200Z
 category: Society
 featuredImage: ./images/2021_1_yoona_cho_article_2.jpg
-featured: "false"
+featured: "true"
 ---
 ![](images/2021_1_yoona_cho_article_2.jpg)
 
