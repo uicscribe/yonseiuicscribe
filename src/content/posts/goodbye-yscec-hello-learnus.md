@@ -4,7 +4,7 @@ author: Chaewon Sung
 date: 2021-04-27T02:16:13.642Z
 category: School
 featuredImage: ./images/2021_1_chaewon_sung_article_1.jpg
-featured: "true"
+featured: "false"
 ---
 ![](images/2021_1_chaewon_sung_article_1.jpg)
 
