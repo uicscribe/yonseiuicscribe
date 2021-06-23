@@ -1,0 +1,29 @@
+---
+title: Special Lecture Programs from Career Yonsei
+author: Soonwoo Kwon
+date: 2021-06-23T05:05:58.298Z
+category: School
+featuredImage: ./images/2021_1_soonwoo_kwon_article_2.jpg
+featured: "false"
+---
+![](images/2021_1_soonwoo_kwon_article_2.jpg)
+
+<!--StartFragment-->
+
+Are you not sure which career to pursue after graduating college? Are you not certain about what you are truly interested in and what you really want to do in the future? Do you want to explore more about possible career options? There are numerous resources available on the Career Yonsei website that would help solve these kinds of questions. Students can find daily updates on recruitment information, alumni mentoring, and online consulting at [career.yonsei.ac.kr/](https://career.yonsei.ac.kr/).
+
+Special lecture programs are especially helpful since there are both general and specific information about different careers, fields, and positions. I personally have participated in 6 special lecture programs from Career Yonsei, and the experience was enlightening. Since the COVID-19 outbreak, most of the special lectures have been held online on Zoom, which makes them more convenient for students to access. Also, the sign-up process for these lectures is very simple. You can simply log in to your student account, go to the “Extracurricular Program” tab on the Career Yonsei website, and simply click the “register” button. I strongly recommend everyone to check the “Extracurricular Program” tab regularly to see if there are any upcoming special lectures that you might be interested in.
+
+Before you sign up for the special lectures, make sure to read the brief introduction about them. Usually, the description box provides information such as: what the program topic is about, the date and time, and the lecturer’s profile (a summary of his or her work experience). The lecturers are usually career consultants, an insider in a specific field, or former managers from the human resources department. Therefore, these lectures are useful in learning about different industries and various career options. The topics discussed in the program include career consultants’ tips on job interviews, guidelines on writing applications, and an overview of different job positions. You can also get answers to some unanswered questions during the Q&A time.
+
+Now, I would like to share some reviews on the lectures that I participated in so that you can get a sense of how these lectures are operated. A special lecture on an overseas sales position was run by a former worker at LG electronics’ overseas sales and marketing team. He provided a general idea about the tasks of the global business/sales/marketing team, and he informed the students about what they should do to prepare for this position. The lecturer emphasized that applicants should avoid talking about something that is irrelevant and off-topic during job interviews. The lecturer compared this situation to us watching a play in a theater; people should not only look at what is performed on stage but will also have to acknowledge all the efforts that were made backstage. Therefore, to be an outstanding candidate among many, candidates should try to have a deeper understanding of the assigned tasks and responsibilities of each department.
+
+In January, there was a special lecture for students applying to big, leading companies like Samsung. This lecture was run by a career consultant, Jongpil Oh who had previously worked at Samsung Electronics’ HR team. The lecturer talked about how to become a strong competitor in the job market and how to prepare for big companies. He emphasized that Samsung expects its employees to be active, creative, professional, and cooperative; these traits should thus be highlighted in all essays and interviews. He also gave a useful tip on writing cover letters and job applications. The STAR technique (situation, task, action, and result) suggests that the background information should be as short as possible and that the actions and results should be emphasized. Likewise, how one delivers information and writes about one’s story is as important as the experience itself. He strongly recommended the students to prepare essays beforehand, so that students have plenty of time to polish their writing. Oh recommended students to participate in a study group with people applying to similar positions or industries. Lastly, he said that an internship is necessary since a candidate’s knowledge about the industry (technical jargon and more) is a crucial factor in the selection process.
+
+In one of the career lecture series Seodaemun-gu organized, general tips on job interviews were given for those who were just entering the job market. The lecturer noted that applicants should prepare different versions of self-introduction essays so that they can choose the appropriate one according to the situation. Another important advice that he gave was that keywords work better than a script. When one relies on a prewritten script in a job interview, one can look unnatural. When one memorizes just the keywords, however, one would sound smoother even when impromptu questions are asked. Filming a video during a mock interview would also be very helpful since applicants can check what they can improve before walking into the actual interview.
+
+Overall, the special lectures organized by Career Yonsei left a good impression on me. I believe that these lectures would be great opportunities for others as well. Experts will help students in the process of finding the right career path and will give insightful advice on what to prepare. I hope more students utilize various resources on the Career Yonsei website and overcome the current challenging situation in the labor market.
+
+
+
+<!--EndFragment-->
