@@ -4,7 +4,7 @@ author: Hyerim Lee
 date: 2021-06-25T02:42:55.218Z
 category: School
 featuredImage: ./images/pasted_image_0.png
-featured: "false"
+featured: "true"
 ---
 ![](images/pasted_image_0.png)
 
