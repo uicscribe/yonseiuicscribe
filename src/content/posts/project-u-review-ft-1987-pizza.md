@@ -3,7 +3,7 @@ title: "Project: U Review (ft. 1987 Pizza)"
 author: Yejin Kim
 date: 2021-10-04T02:39:40.880Z
 category: Shorts
-featuredImage: ./images/pizza1987
+featuredImage: ./images/pizza1987.jpg
 featured: "false"
 ---
 ![pizza 1987](images/pizza1987.jpg)
