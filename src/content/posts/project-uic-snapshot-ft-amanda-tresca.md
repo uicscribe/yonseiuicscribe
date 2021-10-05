@@ -8,7 +8,7 @@ featured: "false"
 ---
 ![Amanda Tresca](images/amanda.jpg)
 
-An interview with Amanda Tresca, UIC Underwood Division, Class of 21.5. Amanda is a prospective major in Political Science & International Relations and Culture Design Management. Before coming to Yonsei University, Amanda spent her Summer of 2019 with a host-family in Korea through the NSLIY program. Amanda is back in Korea, exploring the ups-and-downs of life away from home.
+An interview with Amanda Tresca, from the Underwood Division, Class of 21.5. Amanda is a prospective major in Political Science & International Relations and Culture Design Management. Before coming to Yonsei University, Amanda spent her Summer of 2019 with a host-family in Korea through the NSLIY program. Amanda is back in Korea, exploring the ups-and-downs of life away from home.
 
 **How has your second visit to Korea and the independence of dorm-life changed you?**
 
