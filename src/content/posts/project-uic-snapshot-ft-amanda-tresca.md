@@ -1,7 +1,7 @@
 ---
 title: "Project: UIC Snapshot (ft. Amanda Tresca)"
 author: Young Bean Lee
-date: 2021-10-04T05:38:17.603Z
+date: 2021-10-06T00:41:01.500Z
 category: Shorts
 featuredImage: ./images/Amanda.jpg
 featured: "false"
