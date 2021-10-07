@@ -3,7 +3,7 @@ title: "Project: UIC Snapshot (ft. Seoyeon Park)"
 author: Yejin Kim
 date: 2021-10-07T05:01:21.727Z
 category: Shorts
-featuredImage: ./images/seoyeonpark.jpg
+featuredImage: ./images/(picture 1)_yejin–kim_uic–snapshots–ft.–seoyeon–park.jpg
 featured: "true"
 ---
 ![](images/picture-1-_yejin-kim_uic-snapshots-ft.-seoyeon-park.jpg)
