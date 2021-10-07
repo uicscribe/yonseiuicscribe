@@ -6,7 +6,7 @@ category: Shorts
 featuredImage: ./images/seoyeon.jpg
 featured: "false"
 ---
-![](images/seoyeon.jpg)
+![seoyeon.jpg](images/seoyeon.jpg)
 
 Interview with Seoyeon Park, Economics major, Class of 2020.
 
