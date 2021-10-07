@@ -6,7 +6,7 @@ category: Shorts
 featuredImage: ./images/lisbonporto.jpg
 featured: "false"
 ---
-![](images/lisbonporto.jpg)
+![lisbonporto.jpg](images/lisbonporto.jpg)
 
 Location: As you approach the end of Gyeongui Line Forest Park which stretches from Hongik University Station Exit 3 (Yeonnam-dong) to Gajwa Station, look at the right side of the street. You will find a place which looks like a residential area at first glance but locates many cafes and shops alongside.
 
