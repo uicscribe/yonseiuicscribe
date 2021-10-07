@@ -3,7 +3,7 @@ title: "Project: U Review (ft. Bookshop Lisbon Porto)"
 author: Eunjung Kim
 date: 2021-10-07T04:48:27.607Z
 category: Shorts
-featuredImage: ./images/
+featuredImage: ./images/lisbonporto.jpg
 featured: "false"
 ---
 ![](images/picture-1-_eunjung-kim_u-review-ft.-bookshop-lisbon-porto.jpeg)
