@@ -3,10 +3,10 @@ title: "Project: U Review (ft. Bookshop Lisbon Porto)"
 author: Eunjung Kim
 date: 2021-10-07T04:48:27.607Z
 category: Shorts
-featuredImage: ./images/(picture 1)_eunjung kim_u–review–ft.–bookshop–lisbon–porto.jpg
+featuredImage: ./images/lisbonporto.jpg
 featured: "false"
 ---
-![](images/picture-1-_eunjung-kim_u-review-ft.-bookshop-lisbon-porto.jpeg)
+![](images/lisbonporto.jpg)
 
 Location: As you approach the end of Gyeongui Line Forest Park which stretches from Hongik University Station Exit 3 (Yeonnam-dong) to Gajwa Station, look at the right side of the street. You will find a place which looks like a residential area at first glance but locates many cafes and shops alongside.
 
