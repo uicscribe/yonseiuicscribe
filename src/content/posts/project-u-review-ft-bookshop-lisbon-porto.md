@@ -4,7 +4,7 @@ author: Eunjung Kim
 date: 2021-10-07T04:48:27.607Z
 category: Shorts
 featuredImage: ./images/lisbonporto.jpg
-featured: "false"
+featured: "true"
 ---
 ![lisbonporto.jpg](images/lisbonporto.jpg)
 
