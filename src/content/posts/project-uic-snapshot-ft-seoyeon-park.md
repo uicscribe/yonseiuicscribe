@@ -4,7 +4,7 @@ author: Yejin Kim
 date: 2021-10-07T05:01:21.727Z
 category: Shorts
 featuredImage: ./images/seoyeon.jpg
-featured: "false"
+featured: "true"
 ---
 ![seoyeon.jpg](images/seoyeon.jpg)
 
