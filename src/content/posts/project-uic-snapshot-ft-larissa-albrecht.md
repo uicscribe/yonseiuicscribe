@@ -3,10 +3,10 @@ title: "Project: UIC Snapshot (ft. Larissa Albrecht)"
 author: Jeong-in Ha
 date: 2021-10-15T14:01:10.225Z
 category: Shorts
-featuredImage: ./images/larissa-albrecht_-uic-snapshot.jpeg
+featuredImage: ./images/larissa.jpeg
 featured: "true"
 ---
-![](images/larissa-albrecht_-uic-snapshot.jpeg)
+![](images/larissa.jpeg)
 
 An interview with Larissa Albrecht, a rising junior in the Political Science and International Relations (PSIR) major. Larissa is originally from Switzerland and in the past year, has been engrossed as an active member and now president of her major’s Emergency Exigency Committee.
 
