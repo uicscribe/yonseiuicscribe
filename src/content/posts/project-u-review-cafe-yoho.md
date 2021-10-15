@@ -3,10 +3,10 @@ title: "Project: U Review (Cafe Yoho)"
 author: Dhabitah Zailani
 date: 2021-10-15T14:07:44.258Z
 category: Shorts
-featuredImage: ./images/picture-1-_dhabitah-zailani_u-review-ft-cafe-yoho.jpg
+featuredImage: ./images/cafeyoho.jpg
 featured: "true"
 ---
-![](images/picture-1-_dhabitah-zailani_u-review-ft-cafe-yoho.jpg)
+![cafeyoho](images/cafeyoho.jpg)
 
 Location: Cafe Yoho is situated at an intersection, twelve minutes by foot from Hongdae Station, one stop away from Sinchon Station. The cafe has three stories, with the second floor being their brunch cafe, and the third floor, a gallery. The first floor is the main cafe area, where you can find all sorts of seating and outlets for visitors to plug in and work the day away. 
 
