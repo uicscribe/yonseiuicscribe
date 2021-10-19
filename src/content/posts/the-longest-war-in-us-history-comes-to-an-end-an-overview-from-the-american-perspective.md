@@ -39,7 +39,7 @@ Image credit: CrusaderToonamiUK
 
 “Afghan Conflict: US and Taliban Sign Deal to End 18-Year War.” BBC News, BBC, 29 Feb. 2020, www.bbc.com/news/world-asia-51689443.
 
-Mazzetti, Mark. “Biden Declared the War over. but Wars Go on.” The New York Times, The New York Times, 22 Sept. 2021, [www.nytimes.com/2021/09/22/us/politics/biden-war.html](http://www.nytimes.com/2021/09/22/us/politics/biden-war.html).
+Mazzetti, Mark. “Biden Declared the War over. but Wars Go on.” The New York Times, The New York Times, 22 Sept. 2021, [www.nytimes.com/2021/09/22/us/politics/biden-war.html.](http://www.nytimes.com/2021/09/22/us/politics/biden-war.html)
 
 Shear, Michael and Tankersley, Jim. “Biden Defends Afghan Pullout and Declares an End to Nation-Building.” The New York Times, The New York Times, 1 Sept. 2021, www.nytimes.com/2021/08/31/us/politics/biden-defends-afghanistan-withdrawal.html.
 
