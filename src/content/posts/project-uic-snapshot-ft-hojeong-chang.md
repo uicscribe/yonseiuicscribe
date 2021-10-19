@@ -3,7 +3,7 @@ title: "Project: UIC Snapshot (ft. Hojeong Chang)"
 author: Gahyeon Choi
 date: 2021-10-19T06:16:08.735Z
 category: Shorts
-featuredImage: ./images/hojeong.jpg
+featuredImage: ./images/hojeong.jpeg
 featured: "true"
 ---
 ![hojeong](images/hojeong.jpeg)
