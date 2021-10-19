@@ -16,7 +16,7 @@ If I had the chance, I'd like to go back in time to when my parents first met. I
 
 **What extracurricular activity are you taking part in, and what do you enjoy about it the most?**
 
-I am currently in a film-making club where we produce various kinds of videos, including short films, music videos, dramas, and documentaries. One thing I really like about this club is that I get to meet people from various universities and majors. From this, I was able to step out of my comfort zone and widen my perspective to meet new people who share the same interest and passion in film-making as me.
+I am currently in a film-making club where we produce various kinds of videos, including short films, music videos, dramas, and documentaries. One thing I really like about this club is that I get to meet people from various universities and majors. From this, I was able to step out of my comfort zone and widen my perspective to meet new people who share the same interest and passion in film-making as me. 
 
 **What is the first thing that you want to do at Sinchon Campus when Covid-19 is over?**
 
