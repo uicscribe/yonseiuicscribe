@@ -4,7 +4,7 @@ title: "The Longest War in US History Comes to an End: An Overview from the
 author: Hyerim Lee
 date: 2021-10-19T06:19:20.123Z
 category: Politics
-featuredImage: ./images/afghanistan
+featuredImage: ./images/afghanistan.jpg
 featured: "true"
 ---
 ![afghanistan](images/afghanistan.jpg)
