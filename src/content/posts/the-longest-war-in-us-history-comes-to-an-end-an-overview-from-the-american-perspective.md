@@ -13,7 +13,7 @@ The longest war in US history terminated on 30 August with the total withdrawal 
 
 President Trump signed the Doha Agreement—a peace agreement to end the War—with Taliban in February 2020, which stated that foreign troops would be withdrawn under the conditions that Afghanistan is not used as an al-Qaeda breeding ground and that Taliban engage in diplomatic talks with the Afghanistan government. President Biden concluded the foreign policy trajectory Trump laid out, firmly claiming that it was a good decision.
 
-**US Reasons’ for the Withdrawal**
+**US Reasons for the Withdrawal**
 
 There were various reasons for the US decision to withdraw all troops. One is the immense costs: the US has spent $2.3 trillion and lost the lives of 2400 US service members. Such costs significantly impacted domestic politics. The US public opinion thus geared towards the opinion that such money, technology, and lives could be invested in an initiative that would directly benefit American citizens. Progressives have strayed away from the desire to promote human rights in Afghanistan and instead highlighted the importance of rebuilding America. Conservatives are less committed to President Bush’s freedom agenda and instead hope to put “America First”. Biden also included the withdrawal from Afghanistan in his presidential campaign: he had to abide by this popular agenda once his presidency began.
 
@@ -33,7 +33,7 @@ Moreover, such policy change has a potential to ignite distrust within US allies
 
 While opinions on the American withdrawal from Afghanistan are diverse, it is undoubtedly a significant turning point in international history. We are now beyond the post-9/11 international society: a new world order is impending.
 
-**Citations**
+**References**
 
 Image credit: CrusaderToonamiUK
 
