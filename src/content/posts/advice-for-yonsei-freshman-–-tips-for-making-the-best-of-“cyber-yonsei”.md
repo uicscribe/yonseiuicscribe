@@ -3,7 +3,7 @@ title: Advice for Yonsei Freshman – Tips for Making the Best of “Cyber Yonse
 author: Chaewon Sung
 date: 2021-10-21T05:25:03.877Z
 category: School
-featuredImage: ./images/cyber.jpeg
+featuredImage: ./images/cyber.jpg
 featured: "true"
 ---
 ![cyber](images/cyber.jpg)
