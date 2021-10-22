@@ -35,7 +35,7 @@ While opinions on the American withdrawal from Afghanistan are diverse, it is un
 
 **References**
 
-Image credit: CrusaderToonamiUK
+Image credit: CrusaderToonamiUK 
 
 “Afghan Conflict: US and Taliban Sign Deal to End 18-Year War.” BBC News, BBC, 29 Feb. 2020, www.bbc.com/news/world-asia-51689443.
 
