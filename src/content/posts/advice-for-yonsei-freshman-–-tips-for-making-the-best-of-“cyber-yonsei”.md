@@ -4,7 +4,7 @@ author: Chaewon Sung
 date: 2021-10-21T05:25:03.877Z
 category: School
 featuredImage: ./images/cyber.jpg
-featured: "false"
+featured: "true"
 ---
 ![cyber](images/cyber.jpg)
 
